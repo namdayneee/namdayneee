@@ -1,9 +1,11 @@
-# Hi ! My name is Nguyen Dinh Nam
+# Hi, I'm Nguyen Dinh Nam
 
-* 🌍  Vietnamese
-* 🎓  Student at Ho Chi Minh City University of Technology (VNU-HCM), focusing on Software Engineering
-* ✉️  Contact me at [dinhnam.tech@gmail.com](mailto:dinhnam.tech@gmail.com)
-* 🧠  I enjoy listening to music and reading stories
+I'm a Software Engineering student at Ho Chi Minh City University of Technology (VNU-HCM), based in Vietnam. I'm focused on building a strong foundation in software development and applying what I learn to practical projects.
+
+I value continuous learning and thoughtful problem-solving. Outside of technology, I enjoy listening to music and reading stories.
+
+* 🌐  Explore my work: [namnguyen.id.vn](https://namnguyen.id.vn/)
+* ✉️  Get in touch: [dinhnam.tech@gmail.com](mailto:dinhnam.tech@gmail.com)
 
 ---
 
